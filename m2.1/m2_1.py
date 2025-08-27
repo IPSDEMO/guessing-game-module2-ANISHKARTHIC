@@ -1,2 +1,4 @@
 def input_and_display():
-    #Your creative code goes here
+    
+    number = input("Enter the number you guess:")
+    print("You guessed", number)
