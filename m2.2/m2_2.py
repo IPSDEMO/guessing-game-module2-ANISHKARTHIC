@@ -1,2 +1,3 @@
 def guessing_game_with_input():
-    #Your creative code goes here
+    number = input("Enter the number you guess:")
+    print("You guessed", number)
